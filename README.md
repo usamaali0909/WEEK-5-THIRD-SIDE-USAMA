@@ -29,7 +29,7 @@ file:///C:/Users/uabdu/OneDrive/Desktop/Week-5-Third-Side-Usama/index.html
 
 
 # Deployed Link
-
+https://usamaali0909.github.io/WEEK-5-THIRD-SIDE-USAMA/
 
 
 
